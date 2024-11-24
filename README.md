@@ -1,6 +1,6 @@
 
 
-### An experienced tech lead, architect, coder to design & develop large-scale enterprise applications with cutting-edge technologies. I liked to learn something new, apply those to work, and love to share my experiences with others.
+### An experienced tech lead, architect, and coder with over 15 years of industry experience in designing and developing large-scale enterprise applications using cutting-edge technologies. Skilled in global software development across diverse business domains. I enjoy learning new things, applying them to my work, and sharing my experiences on various professional forums, communities, and blogs.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedulalam46&show_icons=true)  
 
