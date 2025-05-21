@@ -1,5 +1,5 @@
-## Hi there 👋
-### Thanks for visiting my profile. I'm a an experienced tech lead, architect, and coder.
+## Thanks for visiting my profile 👋
+### I'm a an experienced software professional.
 
 ## How to reach me:
 - Blog: http://cybarlab.com
