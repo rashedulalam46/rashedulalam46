@@ -1,6 +1,12 @@
+## Hi there 👋
+### Thanks for visiting my profile. I'm a an experienced tech lead, architect, and coder.
 
+## How to reach me:
+- Blog: http://cybarlab.com
+- GitHub: https://github.com/rashedulalam46
+- LinkedIn: https://www.linkedin.com/in/rashedulalam46
+- Email: rashed464@outlook.com
 
-### An experienced tech lead, architect, and coder.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedulalam46&show_icons=true)  
 
