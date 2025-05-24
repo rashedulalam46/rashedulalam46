@@ -1,12 +1,13 @@
 ## Thanks for visiting my profile 👋
-### I'm a passionate **Full-Stack Developer** with a strong command of the **Microsoft technology stack**. I specialize in designing and developing scalable, high-performance applications for the enterprise world. **Currently open to work**
+I'm a passionate Full-Stack Developer with a strong background in building scalable, enterprise-grade applications using Microsoft technologies. I’ve worked on everything from large-scale business applications to automation and reporting tools.
 
 ---
 
 🛠️ **Tech Stack I Work With:**
 - **Backend:** ASP.NET, .NET Core, C#
 - **Frontend:** Angular, HTML, CSS, TypeScript
-- **Database:** SQL Server, SSIS, SSRS
+- **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
+- **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
 - **Cloud:** Microsoft Azure, CI/CD pipelines
 
 
@@ -16,7 +17,8 @@
 
 
 
-🚀 Let’s connect, collaborate, and code something amazing! 🚧
+🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer, let’s connect!
+
 
 ## How to reach me:
 - Blog: http://cybarlab.com
