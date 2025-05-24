@@ -1,4 +1,6 @@
-## Thanks for visiting my profile 👋
+
+## 👨‍💻 Welcome to My Code World!
+
 I'm a passionate Full-Stack Developer with a strong background in building scalable, enterprise-grade applications using Microsoft technologies. I’ve worked on everything from large-scale business applications to automation and reporting tools.
 
 
