@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 
 🛠️ **Tech Stack I Work With:**
 - **Backend:** ASP.NET, .NET Core, C#
-- **Frontend:** Angular, HTML, CSS, TypeScript
+- **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
 - **Cloud:** Microsoft Azure, CI/CD pipelines
