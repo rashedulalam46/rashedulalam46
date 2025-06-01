@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 
 
 🛠️ **Tech Stack I Work With:**
-- **Backend:** ASP.NET, .NET Core, C#
+- **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Python, Go
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
@@ -18,7 +18,7 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 
 
 
-🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer, let’s connect!
+🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer or backend developer, let’s connect!
 
 
 ## How to reach me:
