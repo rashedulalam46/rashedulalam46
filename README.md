@@ -8,6 +8,7 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 - **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Python, Go
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
+- **APIs & Integrations:** REST, GraphQL, Google Maps, Twilio, Flight Tracker, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
 - **Cloud:** Microsoft Azure, CI/CD pipelines
 
