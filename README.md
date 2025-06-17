@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Developer with a strong background in building scala
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, Google Maps, Twilio, Flight Tracker, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
-- **Cloud:** Microsoft Azure, CI/CD pipelines
+- **Cloud:** Microsoft Azure, CI/CD pipelines, DevOps
 
 
 🌍 I love exploring new tools, contributing to open-source projects, and sharing knowledge through my blog 👉 [cybarlab.com](http://cybarlab.com)
