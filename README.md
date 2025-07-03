@@ -8,9 +8,9 @@ I'm a passionate Backend Developer with a strong background in building scalable
 - **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Python, Go, Node.js, Express.js, NestJS
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
-- **APIs & Integrations:** REST, GraphQL, Google Maps, Twilio, Flight Tracker, PayPal, Authorize.net
+- **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
-- **Cloud:** Microsoft Azure, CI/CD pipelines, DevOps
+- **Cloud:** Microsoft Azure, CI/CD pipelines, Azure DevOps
 
 
 🌍 I love exploring new tools, contributing to open-source projects, and sharing knowledge through my blog 👉 [cybarlab.com](http://cybarlab.com)
