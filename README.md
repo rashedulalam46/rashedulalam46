@@ -5,7 +5,7 @@ I'm a passionate Backend Developer with a strong background in building scalable
 
 
 🛠️ **Tech Stack I Work With:**
-- **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Python, Go, Node.js, Express.js, NestJS
+- **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Blazor, Python, Go, Node.js, Express.js, NestJS
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
