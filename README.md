@@ -29,8 +29,16 @@ I'm a passionate Backend Developer with a strong background in building scalable
 - Email: rashed464@outlook.com
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedulalam46&show_icons=true)  
+## 🛠️ My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalam46)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalam46&layout=compact&langs_count=15&count_private=true&cache_seconds=1800)
+
+---
+
+## 📊 GitHub Stats
+
+![Rashedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulalam46&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+
+---
 
 
