@@ -1,7 +1,7 @@
 
 ## 👨‍💻 Welcome to My Code World!
 
-I'm a passionate Backend Developer with a strong background in building scalable, enterprise-grade applications using Microsoft technologies. I’ve worked on everything from large-scale business applications to automation and reporting tools.
+I'm a passionate Full Stack Developer with a strong background in building scalable, enterprise-grade applications. I love writing clean, maintainable code and solving complex problems through technology.
 
 
 🛠️ **Tech Stack I Work With:**
