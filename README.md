@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 🛠️ **Tech Stack I Work With:**
 - **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Blazor, Python, Go, Node.js, Express.js, NestJS
-- **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI, Razor
+- **Frontend:** Angular, React, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI, Razor
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
