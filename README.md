@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 🌍 I love exploring new tools, contributing to open-source projects, and sharing knowledge through my blog 👉 [cybarlab.com](http://cybarlab.com)
 
-✈️ I love to travel and share my experiences on my blog, [trippainter.com](https://trippainter.com/)
+✈️ I love to travel and share my experiences on my blog, 👉 [trippainter.com](https://trippainter.com/)
 
 📚 I’m also an active [Google Local Guide](https://www.localguidesconnect.com/u/rashedul-alam/summary) and enjoy contributing to Maps with photos, reviews, and edits.
 
