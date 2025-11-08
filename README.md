@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 - **Cloud:** Microsoft Azure, CI/CD pipelines, Azure DevOps
 
 
-🌍 I love exploring new tools, contributing to open-source projects, and sharing knowledge through my blog 👉 [cybarlab.com](http://cybarlab.com)
+🌍 Passionate about exploring new technology and sharing insights on my blog 👉 [cybarlab.com](http://cybarlab.com)
 
 ✈️ I love to travel and share my experiences on my blog, 👉 [trippainter.com](https://trippainter.com/)
 
