@@ -3,6 +3,8 @@
 
 I'm a passionate Full Stack Developer with a strong background in building scalable, enterprise-grade applications. I love writing clean, maintainable code and solving complex problems through technology.
 
+🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer or backend developer, let’s connect!
+
 
 🛠️ **Tech Stack I Work With:**
 - **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Blazor, Python, Go, Node.js, Express.js, NestJS
@@ -15,18 +17,13 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 🌍 I love exploring new tools, contributing to open-source projects, and sharing knowledge through my blog 👉 [cybarlab.com](http://cybarlab.com)
 
-📚 I’m also an active Google Local Guide and enjoy contributing to Maps with photos, reviews, and edits.
-
-
-
-🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer or backend developer, let’s connect!
-
+📚 I’m also an active [Google Local Guide](https://www.localguidesconnect.com/u/rashedul-alam/summary) and enjoy contributing to Maps with photos, reviews, and edits.
 
 ## How to reach me:
 - Blog: http://cybarlab.com
 - GitHub: https://github.com/rashedulalam46
 - LinkedIn: https://www.linkedin.com/in/rashedulalam46
-- Email: rashed464@outlook.com
+- Email: rashed464[at]outlook.com
 
 
 ## 🛠️ My Top Languages
