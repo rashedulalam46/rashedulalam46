@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 ## 📊 GitHub Stats
 
-![Rashedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulalam46&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+![Rashedul's GitHub Stats](https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=rashedulalam46&show_icons=true&count_private=true&theme=radical)
 
 ---
 
