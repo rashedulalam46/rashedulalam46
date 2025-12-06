@@ -30,7 +30,8 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 ## 🛠️ My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalam46&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=rashedulalam46&layout=compact&theme=dark)
+
 
 
 
