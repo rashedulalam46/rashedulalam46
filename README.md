@@ -1,9 +1,9 @@
 
 ## 👨‍💻 Welcome to My Code World!
 
-I'm a passionate Full Stack Developer with a strong background in building scalable, enterprise-grade applications. I love writing clean, maintainable code and solving complex problems through technology.
+I’m a passionate Full Stack / Backend-focused Software Engineer with a strong background in building scalable, enterprise-grade applications. I specialize in .NET, SQL Server, and cloud solutions, and I enjoy solving complex business problems and transforming ideas into reliable, high-performance systems.
 
-🚀 **Currently open to work** – if you're looking for a dedicated full-stack engineer or backend developer, let’s connect!
+🚀 **Currently open to work** – if you're looking for a backend, full-stack, or technical leadership roles, let’s connect!
 
 
 🛠️ **Tech Stack I Work With:**
