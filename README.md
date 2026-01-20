@@ -7,12 +7,13 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 
 🛠️ **Tech Stack I Work With:**
-- **Backend:** .NET, .NET Core, C#, Entity Framework, LINQ, Blazor, Python, Go, Node.js, Express.js, NestJS
+- **Backend:** .NET Framework, .NET Core, C#, ASP.NET Web Forms, ASP.NET MVC, Blazor, Entity Framework, LINQ, ADO.NET, SignalR, RabbitMQ
 - **Frontend:** Angular, React, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI, Razor
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
 - **Reporting & ETL:** SSRS, SSIS, JasperReports, Google Chart, Highcharts
 - **Cloud:** Microsoft Azure, CI/CD pipelines, Azure DevOps
+-  **Familiar With:** Python, Go, Node.js, Agile, Jira, Leveraging AI tools (ChatGPT, Copilot)
 
 
 🌍 Passionate about exploring new technology and sharing insights on my blog 👉 [cybarlab.com](http://cybarlab.com)
