@@ -20,7 +20,7 @@ Passionate Full Stack / Backend-focused Software Engineer specializing in **.NET
 
 ✈️ I love to travel and share my experiences on my blog, 👉 [trippainter.com](https://trippainter.com/)
 
-📚 I’m also an active [Google Local Guide](https://www.localguidesconnect.com/u/rashedul-alam/summary) and enjoy contributing to Maps with photos, reviews, and edits.
+🗺️ I’m also an active [Google Local Guide](https://www.localguidesconnect.com/u/rashedul-alam/summary) and enjoy contributing to Maps with photos, reviews, and edits.
 
 ## How to reach me:
 - Blog: http://cybarlab.com
