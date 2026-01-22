@@ -7,7 +7,8 @@ Passionate Full Stack / Backend-focused Software Engineer specializing in **.NET
 
 
 🛠️ **Tech Stack I Work With:**
-- **Backend:** .NET Framework, .NET Core, C#, ASP.NET Web Forms, ASP.NET MVC, Blazor, Entity Framework, LINQ, ADO.NET, SignalR, RabbitMQ
+- **Backend:** .NET Framework, .NET Core/.NET, C#, ASP.NET Web Forms, ASP.NET MVC, Blazor, Entity Framework, LINQ, ADO.NET
+- **Messaging:** SignalR, RabbitMQ
 - **Frontend:** Angular, React, HTML, CSS, JavaScript, TypeScript, jQuery, jQueryUI, Razor
 - **Database:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **APIs & Integrations:** REST, GraphQL, gRPC, Google Maps, PayPal, Authorize.net
